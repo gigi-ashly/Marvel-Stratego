@@ -150,4 +150,27 @@ public class GestorJugadores {
         }
         return ordenados;
     }
+    
+    private void insertarRankingRecursivo(List<Jugador> lista, Jugador jugador, int indice) {
+
+    if (indice >= lista.size()) {
+        lista.add(jugador);
+        return;
+    }
+
+    if (jugador.getPuntos() > lista.get(indice).getPuntos()) {
+        lista.add(indice, jugador);
+        return;
+    }
+
+    insertarRankingRecursivo(lista, jugador, indice + 1);
+}
+    public Jugador getJugador(int indice) {
+
+    if (indice < 0 || indice >= cantidadJugadores) {
+        return null;
+    }
+
+    return jugadores[indice];
+}
 }
