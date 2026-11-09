@@ -3,11 +3,44 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/MenuInicial.java</file>
-            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/logica/GestorJugadores.java</file>
-            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/Jugador.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/excepciones/AtaqueInvalidoException.java</file>
             <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/stratetego_programacion/ii/Stratetego_ProgramacionII.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/logica/GeneradorLogPartida.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/recursos/fichas/h1.png</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/logica/GestorJugadores.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/TipoPieza.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/RegistroAcceso.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/excepciones/RegistroInvalidoException.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/PiezaMovil.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/MenuPrincipal.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/recursos/fichas/h2.png</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/Pieza.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/MenuInicial.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/logica/Tablero.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/excepciones/UsuarioDuplicadoException.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/Estilo.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/ModoJuego.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/PiezaFija.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/ResultadoCombate.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/VentanaJuego.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/recursos/tablero_cuadricula.png</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/MotivoFin.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/excepciones/CredencialesInvalidasException.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/excepciones/PasswordInvalidoException.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/RegistroPartida.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/DialogoMarvel.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/RegistroBase.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/MarvelArtworkPanel.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/Jugador.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/ConfiguracionEjercitos.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/excepciones/MovimientoInvalidoException.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/VentanaPerfil.java</file>
             <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/RegistroJugador.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/recursos/fichas/h0.png</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/interfaces/Movible.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/modelo/interfaces/Combatiente.java</file>
+            <file>file:/C:/Users/gigiw/Documents/NetBeansProjects/Stratetego_Programacion%20II/src/vista/DialogoLogin.java</file>
         </group>
     </open-files>
 </project-private>
